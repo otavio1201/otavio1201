@@ -2,7 +2,7 @@
 
 meu nome e otavio
 
-estou estudando no alura
+estou estudando no [alura](https://www.alura.com.br)
 estou desenvolvendo linguagem javascript
 - utilizo essse espaco para a minha organizçao e compartilhamento dos meus projetos desenvolvidos
 
@@ -13,4 +13,4 @@ estou desenvolvendo linguagem javascript
 - @otaviolopes 
 
 
-https://media1.tenor.com/m/CKfhDaOHHPYAAAAC/mad-mad-face.gif
+![](https://media1.tenor.com/m/CKfhDaOHHPYAAAAC/mad-mad-face.gif)
